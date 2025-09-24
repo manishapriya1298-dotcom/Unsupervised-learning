@@ -1,6 +1,6 @@
 # Unsupervised-learning
 🍽️ Restaurant Data Analysis
-This project explores a rich dataset of global restaurants, focusing on customer ratings, cuisine types, delivery options, and geographic distribution. It enables insights into dining trends, service availability, and regional preferences.
+This project explores a rich dataset of global restaurants, focusing on customer ratings, cuisine types, delivery options, and geographic distribution. It enables insights into dining trends, service availability, and regional preferences. 
 📦 Dataset Overview
 
 🎯 Objectives
